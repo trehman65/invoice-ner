@@ -1,0 +1,122 @@
+The Death of the Security Guard
+
+In New South Wales, murder is established where there is an act of the accused, that causes the death of the deceased and at the time of the act, the accused acted with intent to kill, intent to cause grievous bodily harm or reckless indifference to human life. It is also murder if the death occurs during or immediately after the commission of some other offence that itself carries a maximum penalty of twenty-five years or life imprisonment.[1] commentary
+A Voluntariness
+
+The first issue is whether there was an act of Carol that caused the death of the guard. Before Carol can be liable for the death there must have been some voluntary act of hers that caused the death. In Ryan[2] the Crown alleged, inter alia, that the accused was guilty of constructive murder in that the death occurred during the commission of an armed robbery contrary to s 98 of the Crimes Act 1900 (NSW). In that case the accused was tying up the deceased when the accused’s gun discharged, killing the victim. The accused argued that the discharge of the gun was an involuntary response to sudden movements by the victim. Taylor and Owen JJ took the view that the ‘wounding and death were caused by a combination of acts done in pursuance of the robbery’.[3] Menzies J was of the opinion that the combined effect of ss 98 and 18 of the Crimes Act 1900 (NSW) was that if the death ‘was caused by a bullet fired by the accused, albeit accidentally, while he was robbing [the victim], the accused was guilty of murder’.[4] Windeyer J said that the conduct that caused the death of the deceased was a combination of all the acts of the accused, which were clearly voluntary.[5] commentary
+
+Taking the broad view of the acts of the accused, her voluntary actions (by which it means actions that were in response to her conscious decisions) included going into the bank whilst armed, robbing the bank and struggling with the guard. Section 98 does not specify how the wounding of the victim must occur, so if the guard had been pulled to the ground and wounded, then it would still have been the voluntary act of Carol that wounded her. Here Carol was involved in a struggle, the act of struggling was voluntary and during the course of the struggle the guard was wounded. Even if the precise cause of the wounding was unforseen it would seem that it was still a voluntary act of Carol that can be identified as the relevant act. commentary
+B Causation
+
+The next question is that given there were voluntary acts of the accused that wounded the guard, did that cause the guard’s death? The security guard was killed by a blood clot that travelled to her head and caused a stroke. Eventually life support was disconnected. If Carol is to be liable for the guard’s death, then it must be shown that her actions were the cause of that death. Whether Carol’s actions caused the death of the guard is a matter of fact to be determined by the jury using ‘commonsense’.[6] The fact that the medical practitioners disconnected the guard’s life support will not, of itself, be sufficient to break the causal link between Carol’s actions and the guard’s death[7] provided that, at the time of death, the wound inflicted by Carol was still a ‘substantive and operating cause’[8] of her death. There is little doubt that ‘but for’[9] Carol’s actions, the guard would not have died and her actions therefore caused the guard’s death. commentary
+C Mens Rea
+
+Even if Carol’s voluntary act caused the death of the deceased, she will only be liable for murder if she had the relevant mens rea at the time of acting. There is nothing to suggest that she actually intended to kill the guard or cause the guard grievous bodily harm. Reckless indifference to human life requires that the accused realised that the probable consequences of her actions would be the death of another.[10] There is nothing on the facts to suggest that Carol realised she would probably kill someone during the course of the robbery. commentary
+D Constructive Murder
+
+The relevant head of murder is the constructive-murder rule. Where the death occurs during or after the commission of a separate offence that carries a maximum penalty of 25 years or life in gaol, then it is murder. It does not matter whether or not the accused intended to kill or realised that death was probable, nor does it matter that the accused did not intend to wound the deceased.[11] To be guilty of constructive-murder, the only intent necessary is the intent required for the base offence.[12] If Carol was committing an offence contrary to s 98, then prima facie she is guilty of murder. commentary
+
+An offence contrary to s 98 is established if a person armed with an offensive weapon, robs, or assaults with intent to rob, any person, and at the time of the robbery wounds ‘such person’. Watson, Blackmore and Hosking[13] cite Ryan v The Queen[14] as authority for the proposition that ‘… s 98 requires the wounding to be of the victim of the robbery and not merely to any person’.[15] Larceny is however, a crime against possession,[16] not ownership, so a relevant question is who was being robbed? The gun discharged whilst Carol was making an extra effort to get the bag containing the money. Assuming the guard is the servant or agent of the bank, he would be entitled to possession of the money taken from the teller. Although it may be uncertain, in the struggle, who, if anyone, had actual physical ‘possession’ the guard had the right to possession, a right that she was attempting to enforce. If that is correct then taking the bag from the guard was taking it from his possession, and the guard was, therefore the person being robbed. commentary
+E Duress as a Defence to Murder
+
+A possible defence for Carol is duress. Duress excuses the criminal conduct of the accused in cases where the accused was forced, against their will, to commit some criminal actions in circumstances where an ordinary person would have succumbed to the pressure applied, and where there was no opportunity for the accused to escape and reassert their will.[17] commentary
+
+There is some evidence that could support a claim of duress. In particular Eddie has threatened Carol with the withdrawal of her drugs and, immediately before and during the robbery, with death. On the other hand, Carol may have had the opportunity during the period between Eddie’s threats and the robbery to ‘reassert her will’ by, for example, contacting police or surrendering to the guard inside the bank. commentary
+
+Even if duress could be established, duress is not a defence to murder where the accused is the person who actually did the killing.[18] Duress would, however, be a defence to the s 98 offence.[19] The argument in Carol’s favour is that if she has a defence to the base offence, then she was not committing or attempting to commit ‘…a crime punishable by penal servitude for life or for 25 years’ and so one of the essential elements of constructive-murder cannot be proved and she should be acquitted. This argument appears to have never arisen for consideration. commentary
+
+The alternative argument is that she was committing the relevant offence. If duress succeeds as a defence, it is merely excusing her criminal conduct, but not denying that she did commit the crime. Duress is a plea in the form of confession and avoidance, with the accused admitting to all the elements of the crime, but seeking to be excused because of the duress.[20] On that basis it can be argued Carol did commit the crime, but could, if no one had died, be excused for doing so by reason of duress. commentary
+
+It may be possible to try and distinguish Carol’s case from the authorities on duress on the basis that the authorities talk, generally, about ‘intentional’ murder, that is where there was intent to kill (either by the accused or the person he or she has been forced to assist). It could be argued that the rule is based on the idea that a person cannot deliberately kill another to save themselves, but that leaves open the case, albeit murder, but where the death was unintentional and unforeseen. This argument, if accepted, would resolve the anomaly that arises when a person, under duress, beats another with intent to cause GBH. In that case the accused can rely on duress if charged with, say, assault with intent to inflict GBH, but has no defence if the person dies even though the accused did not intend or foresee their death.  Irrespective of the death, the intent and criminality is the same, so, the argument goes, the defence should be available to both. A similar argument would apply to Carol, duress being available for an offence under s 98, and she neither intending to kill nor foreseeing death as probable, she should benefit from the defence on the basis that her criminality is the same as a person who commits a s 98 offence where no-one dies. commentary
+
+Lord Halisham and Lord Griffiths directly addressed this type of argument, albeit in obiter, in R v Howe.[21]  Notwithstanding the ‘anomaly’ the court unanimously agreed that duress was not available to the killer or any one charged with murder. In
+
+R v Gotts, Lord Jauncy[22] said that the effect of Howe was that ‘… duress is no defence to murder in whatever capacity the accused is charged with that crime’.[23] commentary
+Reviews the authorities.
+
+It appears therefore that the line of authorities saying that duress is not available to the actual killer is long and well established.  Further the issues of a person involved in a ‘robbery gone wrong’ and the situation of a person who assaults with intent to cause GBH being able to rely on the defence for that offence, but not murder, were specifically considered in R v Howe where it was still held the defence cannot be available to the actual killer. Although Howe and Gotts are not binding in Australia and do not deal with constructive-murder, they are strong authority against allowing the defence to Carol in the circumstances. commentary
+F Manslaughter
+
+If Carol is not guilty of constructive-murder, then she faces the question of unlawful and dangerous act manslaughter. The act of robbing the bank is unlawful (here it doesn’t matter whether its s 98 or some other offence) and carries an appreciable risk of serious injury.[24] If the jury are considering her liability for manslaughter, then duress is available as a defence.[25] commentary
+III The Death of Eddie
+
+The death of Eddie raises the issues of self-defence and provocation. Clearly Carol caused the death of Eddie when she shot him. Although the question of intent is subjective, it would be implausible to think that in the circumstances she did not either intend to kill him or at the least, cause grievous bodily harm. Prima facie she is guilty of murder. commentary
+A Self Defence
+
+The leading case on self-defence is Zecevic v DPP (Vic).[26] In that case it was held that the relevant test for self-defence is: Did the accused believe upon reasonable grounds that it was necessary to do what she did in self-defence?[27] There is no requirement that the force be reasonable or that it be subjected to an objective test.  Whether the force used was proportionate to the threat faced is simply one factor that the jury may consider when deciding whether the accused had the necessary belief or whether there were reasonable grounds for that belief.[28] commentary
+
+The stories of Eddie’s violence and the threats he had made to her life would give her grounds for her belief that her life she was facing a risk of death or serious bodily harm. Faced with that threat, then there are grounds upon which she could have reasonably believed that the response required to save herself was to kill Eddie.[29]  The fact that she discharges all the bullets is, not of itself conclusive. If she believed it was necessary, in self-defence, to kill Eddie, then it was reasonable to make sure that he was in fact, dead. commentary
+B Provocation
+
+As an alternative to self-defence, Carol may also be able to rely on provocation to reduce murder to manslaughter.[30] Provocation requires a loss of self-control on the part of the accused, where the loss of self-control is induced by conduct of the deceased[31] in circumstances where an ordinary person could have been so provoked that they would have formed an intent to kill or inflict grievous bodily harm.[32] commentary
+
+The only evidence that may suggest a loss of self-control is the way Carol discharged the gun. If there was a loss of self-control then one has to consider whether an ordinary person, being a person of the same age but otherwise a hypothetical individual representing the minimum standard of self-control to be expected in the community,[33] could have been provoked to the requisite degree. The conduct of Eddie included the threats to Carol’s drug supply, the threats to her life, and his violence toward her after he had persuaded or forced her to take part in an armed robbery in which a person had been injured. The question of how an ordinary person could have reacted is a matter for a jury but it would seem that there would be some evidence to base an argument in support of a verdict of manslaughter due to provocation. commentary
+IV Conclusion
+
+In conclusion, it appears that Carol will be guilty of the murder of the security guard unless she can succeed with a novel application of the defence of duress. She is prima facie guilty of the murder of Eddie but may be acquitted on the basis that she was acting in self-defence, or be acquitted of murder but convicted of manslaughter on the basis of provocation. commentary
+
+[1] Crimes Act 1900 (NSW) s 18.
+
+[2] (1967) 121 CLR 205.
+
+[3] Ibid 232.
+
+[4] Ibid 235.
+
+[5] Ibid 245.
+
+[6] Royall  (1991) 100 ALR 669 cited in L Waller and C R Williams, Brett, Waller and Williams Criminal Law Text and Cases (8th Ed 1997) 142, 145 per McHugh J.
+
+[7] R v Malcherek; R v Steel, ibid 154.
+
+[8] Hallet [1969] SASR 141 ibid 140.
+
+[9] Royal, (1991) 100 ALR 669, ibid 146 per McHugh J.
+
+[10] R v Crabbe (1985) 156 CLR 464, 9. Crabbe refers to a realisation of death or grievous bodily harm. Realisation that GBH will be the probable consequences of one’s actions is not sufficient in NSW, given the specific terms of s 18. See R v Solomon [1980] 1 NSWLR 321 cited in L Waller and C R Williams, above n 6, 156.
+
+[11] Ryan (1967) 121 CLR 205.
+
+[12] Ryan and Walker [1966] VR 553 cited in L Waller and C R Williams, above n 6, 166. Ryan (1967) 121 CLR 205.
+
+[13] Criminal Law NSW (LBC Criminal Law Library on CD-Rom, 30 September 2000, [2.16640].
+
+[14] (1967) 121 CLR 205, 224 per Barwick CJ.
+
+[15] Credit where credit is due. I did not think of this argument, nor did I intend it. Students contributing to the e-mail list brought it up, and it is a good point.
+
+[16] L Waller and C R Williams, above n 6, 276. P Gillies Criminal Law (3d Ed, 1993), 397.
+
+[17] See L Waller and C R Williams, above n 6, 570 and the cases there discussed.
+
+[18] DPP v Lynch [1975] AC 653; Abbott v R [1977] AC 755; R v Howe [1987] AC 417; R v Gotts [1992] 2 AC 412; R v Sharp [1987] 1 QB 853; R v Brown and Morley [1968] SASR 467; R v Smyth [1963] VR 737; R v Harding [1976] VR 129; R v Evans and Gardiner [No 1] [1976] VR 517; R v Darrington and McGauley [1980] VR 353; R v McConnell [1977] 1 NSWLR 714.
+
+[19] R v Gotts [1982] 2 AC 412.
+
+[20] See also R v Howe [1987] AC 417 and LBC, Laws of Australia, vol 9 (at 30 September 2000) 9.3 Defences and Responsibility, chapter 2 – Duress, [5].
+
+[21] R v Howe [1987] AC 417.
+
+[22] Delivering a judgement with which Lord Templeman and Lord Browne-Wilkinson agreed, Lord Lowry and Lord Keith of Kinkel dissenting.
+
+[23] [1982] 2 AC 412, 424.
+
+[24] Wilson v R cited in L Waller and C R Williams, L Waller and C R Williams, above n 6, 245.
+
+[25] R v Gotts [1992] 2 AC 412.
+
+[26] (1987) 25 A Crim R 163.
+
+[27] Ibid, 174 per Wilson, Dawson and Toohey JJ.
+
+[28] Ibid.
+
+[29] Ibid.
+
+[30] Crimes Act 1900 (NSW) s 23(1).
+
+[31] Crimes Act 1900 (NSW) s 23(2)(a).
+
+[32] Crimes Act 1900 (NSW) s 23(2)(b).
+
+[33] Stingel (1990) 171 CLR 312.

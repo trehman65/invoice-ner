@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/gatecorpora/news/business/test/ft-bmi-09-may-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>BMI British Midland, the UK&apos;s second-largest airline by passenger volumes, suffered a 26 per cent fall in pre-tax profits last year from GBP11.1m ($15.8m) to GBP8.2m.<Node id="166"/>
+
+<Node id="168"/>Profits declined despite a 17 per cent increase in turnover to GBP739m as the company invested heavily to prepare for the launch of its first scheduled long-haul services to the US.<Node id="349"/>
+
+<Node id="351"/>The company also invested to reshape its European short-haul network in a joint venture with Lufthansa and SAS Scandinavian Airlines.<Node id="484"/>
+
+<Node id="486"/>BMI starts direct services from Manchester to Washington DC six times a week from Saturday and daily services to Chicago from June 8.<Node id="619"/>
+
+<Node id="621"/>It charged GBP4m against profits for the investment in the transatlantic services. There was a further GBP2m for accelerated depreciation as a result of an upgrading of the airline&apos;s booking and reservation systems to bring it into line with systems used by other carriers in the Star alliance, which BMI joined last year.<Node id="943"/>
+
+<Node id="945"/>Passenger volumes increased by 8.4 per cent to 7.1m as the airline benefited from the chaos in the UK rail network last year.<Node id="1070"/>
+
+<Node id="1072"/>Capacity was increased by just 4.5 per cent and as a result the airline&apos;s load factor - the share of available seats sold - rose from 61.6 to 64 per cent.<Node id="1226"/>
+
+<Node id="1228"/>Sir Michael Bishop, chairman, said 2001 had &quot;started in a promising manner&quot;.<Node id="1304"/>
+
+<Node id="1306"/>Turnover rose 12 per cent in the first quarter while yields or average fare levels rose 17 per cent, partly as a result of weakening price competition from the low-cost carriers, which had raised fares in the first quarter on UK domestic routes.<Node id="1551"/>
+
+<Node id="1553"/>&quot;The era of very low pricing has passed its peak,&quot; Sir Michael said. Some fares were close to those of the full service airlines. &quot;Passengers can now choose between no frills and full service at prices that are not very different,&quot; he said.<Node id="1793"/>
+
+<Node id="1795"/>Karl-Ludwig Kley, Lufthansa chief financial officer, has been appointed to the BMI board. Lufthansa and SAS both hold 20 per cent stakes in BMI.<Node id="1939"/>
+
+<Node id="1941"/>The long-haul services from Manchester to the US are being launched in a code-sharing arrangement with United Airlines. This will allow BMI to offer its customers flights with its own code to a further 20 US destinations.<Node id="2162"/>
+
+<Node id="2164"/>The airline is also campaigning hard to break into the lucrative market from Heathrow to the US.<Node id="2260"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="15" Type="p" StartNode="0" EndNode="166">
+</Annotation>
+<Annotation Id="29" Type="tr" StartNode="0" EndNode="2260">
+</Annotation>
+<Annotation Id="14" Type="p" StartNode="168" EndNode="349">
+</Annotation>
+<Annotation Id="3" Type="p" StartNode="2164" EndNode="2260">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="486" EndNode="619">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="351" EndNode="484">
+</Annotation>
+<Annotation Id="28" Type="td" StartNode="0" EndNode="2260">
+<Feature>
+  <Name className="java.lang.String">colspan</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="1228" EndNode="1304">
+</Annotation>
+<Annotation Id="40" Type="table" StartNode="0" EndNode="2260">
+<Feature>
+  <Name className="java.lang.String">vlink</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginheight</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">618</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">topmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">leftmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginwidth</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">link</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">border</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#ffffff</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">alink</Name>
+  <Value className="java.lang.String">#996600</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="p" StartNode="1306" EndNode="1551">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="1072" EndNode="1226">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="1553" EndNode="1793">
+</Annotation>
+<Annotation Id="52" Type="html" StartNode="0" EndNode="2260">
+</Annotation>
+<Annotation Id="42" Type="body" StartNode="0" EndNode="2260">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="p" StartNode="1941" EndNode="2162">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="621" EndNode="943">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="945" EndNode="1070">
+</Annotation>
+<Annotation Id="5" Type="p" StartNode="1795" EndNode="1939">
+</Annotation>
+<Annotation Id="0" Type="TEXT" StartNode="0" EndNode="2260">
+</Annotation>
+</AnnotationSet>
+</GateDocument>
