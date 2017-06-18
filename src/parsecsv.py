@@ -27,6 +27,8 @@ for infilename in csvfilespath:
 			tokens = row[index].split(',')
 			
 			for tokenindex in range(0,len(tokens)):
+				if (len(tokens[tokenindex])== 0):
+					continue
 				outfile.write(tokens[tokenindex])
 				outfile.write(" ")	
 				outfile.write(classes[index][tokenindex>0])
