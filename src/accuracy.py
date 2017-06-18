@@ -1,7 +1,7 @@
 #computes accuracy of the model 
 import sys 
 
-output = open('output.txt')
+output = open('outputpr.txt')
 lines = output.readlines()
 total=0
 correct = 0

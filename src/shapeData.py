@@ -1,8 +1,9 @@
 import nltk
+from nltk import word_tokenize,pos_tag
 import sys 
 
 infilename = sys.argv[1]
-outfilename = "formatedtrainingdata.txt"
+outfilename = "prtest.txt"
 outfile = open(outfilename,'w')
 
 lines = []
@@ -12,41 +13,54 @@ with open(infilename) as data:
 
 for index in range(0,len(lines)):
 
-	if len(lines[index]) < 3:
-		continue
-	
 	line = lines[index]
+
 	thisToken = line.split(" ")
-	#print thisToken[1]
-	thisToken[1]=thisToken[1].replace("\r\n","")
-	captial = (1 if thisToken[0]==thisToken[0].capitalize() else 0)
-	thisToken.append(captial)
+	
+	try:
+   		val = float(thisToken[0])
+	except ValueError:
+   		val = -1
 
+
+   	isNumber = (1 if val>0 else 0)
+
+	thisToken[1]=thisToken[1].replace("\n","")
+	thisToken.append(isNumber)
 	tokens.append(thisToken)
-
-#[word,label,iscapital]
+	
+#[word,label]
 
 for index in range(1,len(tokens)-1):
 	
-
 	#word
 	outfile.write(str(tokens[index][0]))
 	outfile.write(" ")
-	#thiscapital
+
+	#isnumber
 	outfile.write(str(tokens[index][2]))
 	outfile.write(" ")
-	#prevcaptical
+	
+	#prevnumber
 	outfile.write(str(tokens[index-1][2]))
 	outfile.write(" ")
-	#nextcaptical
+	
+	#nextnumber
 	outfile.write(str(tokens[index+1][2]))
 	outfile.write(" ")
+
+	#lenght of string
+	outfile.write(str(len(tokens[index][0])))
+	outfile.write(" ")
+
 	#prevword
 	outfile.write(str(tokens[index-1][0]))
 	outfile.write(" ")
-	#nextlabel
+
+	#nextword
 	outfile.write(str(tokens[index+1][0]))
 	outfile.write(" ")
+
 	#annotation
 	outfile.write(str(tokens[index][1]))
 	outfile.write("\n")
