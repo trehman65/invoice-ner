@@ -1,0 +1,6 @@
+GMT65034 0 1 0 8 14 alpha
+alpha 0 0 0 5 GMT65034 beta
+beta 0 0 0 4 alpha coffe
+coffe 0 0 1 5 beta 1
+1 1 0 1 1 coffe 14
+14 1 1 0 2 1 null
