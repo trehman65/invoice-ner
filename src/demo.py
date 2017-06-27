@@ -12,7 +12,7 @@ def isNumber(inputVal):
 
 
 
-testfile = open('/Users/talha/Documents/Workspace/currentworkspace/pricerightnlp/CRF++-0.58/test.txt','w')
+testfile = open('/Users/talha/Documents/Workspace/pricerightnlp/CRF++-0.58/test.txt','w')
 tokens = sys.argv[1].split()
 number = -1
 

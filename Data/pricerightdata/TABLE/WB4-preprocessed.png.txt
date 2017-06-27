@@ -1,0 +1,10 @@
+Item Description QtyPrice Total 
+Number 
+MMM1448BSCISSORS,PRECISION,$",BENT 1 $5.29/EA $5.29 
+HAM 105007PAPER,92BRIGHT,WE,LTR,20# 2 $32.99/CT$65.98 
+
+                Product $71.27 
+                Subtotal: 
+              Tax Subtotal*: $0.00 
+
+               Order Total: $71.27 

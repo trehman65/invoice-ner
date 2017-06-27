@@ -1,0 +1,23 @@
+440949        440949 MAGNETS,HEAVY DUTY,AST                       01C92501           1 EA      8.740       8.74 
+     Comments: Construction/Operations 
+974032        974032 PAPER,COPY,OD,11 X17,104BRT,RM               8439230 D RM       1 RM      7.410       7.41 
+     Comments: Construction/Operations 
+841195        841195 PAP ER,COPY,8.5X11,104BRT,WHITE              OD8411RM           5 RM      3.450      17.25 
+     Comments: Construction/Operations 
+136557        136557 BREWER,KEURIG,OFFICEPRO,B145                 K145               1 EA     129.990    129.99 
+     Comments: Construction/Operations 
+110727        110727 PEN,BALLPOINT,RT,RSVP,DZ,BLK                 BK93-A             1 DZ      11.030     11.03 
+     Comments: Construction/Operations 
+110763        110763 PEN,BALLPOINT,RT,RSVP,DZ,BLU                 BK93-C             1 DZ      11.030     11.03 
+     Comments: Construction/Operations 
+362350        362350 MOUSE,WIRELESS,1850,BLACK                    U7Z-00001          1 EA      11.690     11.69 
+     Comments: Construction 
+865079        865079 GMCR REGULAR VARIETY KCUP                    6501               2 BX      12.590     25.18 
+
+565308        565308 PUSH P I NS,50-PACK,ASTD                     PP-AST-50          1 PK      0.460       0.46 
+
+209881        209881 BINDER,ODP,VW,RR,3",JWL BLUE                 OD06622            2 EA      11.990     23.98 
+
+209260        209260 BINDER,ODP,VW,RR,2",JWL BLUE                 OD06616            1 EA      9.990       9.99 
+
+209044        209044 BINDER,ODP,VW,RR,1.5",JWL BLUE               OD06316            1 EA      7.990       7.99 

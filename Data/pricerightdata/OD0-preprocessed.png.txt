@@ -1,0 +1,28 @@
+ACCOUNT NUMBER PURCHASE ORDER SHIP TO ID                        ORDER NUMBER ORDER DATE SHIPPED DATE 
+59198482 CHAISSON7015                                           836106358001 24-APR-16 26-APR-16 
+BILLING ID ACCOUNT MANAGER RELEASE ORDERED BY                   DESKTOP             COST CENTER 
+15089534 ANGEL CHAISSON                                                                                 i 
+
+ CATALOG ITEM h/ DESCRIPTION/ U/M                            QTY   QTY QTY            UNIT EXTENDED 
+   MANUF CODE CUSTOMER ITEM 11                               ORD   SHP 8/0           PRICE PRICE 
+
+ 620007                      WATER,BTL,NSTL PURE       CA     2     2     0           5.090         10.18 
+  12052040                   620007 
+
+ 508338                      NAPKIN,LUNCH,RECY         PK     1     1     0           3.600          3.60 
+  11596                      508338 
+
+ 508506                      FORK,PLASTIC,100CT,WHITE  PK     1     1     0           2.700          2.70 
+  3585490685                 508506 
+
+ 272207                      BAG,ODORSHLD,FRSH,13GAL,  PK     1     1     0          18.990         18.99 
+  CLO 78534                  272207 
+
+ 358752                      BAG,JOLLY RANCHER,5       BG     1     1     0          14.560         14.56 
+  111011                     358752 
+
+ 672223                      TRAY,PAPER,FAUXLEATHER,B  EA     1     1     0           4.420         4.42 
+  61813                      672223 
+
+  116948                     FILE,MAGAZINE,PPRBRD,STRI EA     1     1     0           3.OWO         3.06 
+  36537                      116948 

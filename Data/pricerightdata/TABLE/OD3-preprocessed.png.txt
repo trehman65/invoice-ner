@@ -1,0 +1,180 @@
+        Quantity 
+                     Item Number 
+
+                                                                          (1) 
+
+Line  2    a          Mfgr Code                 Description                    Lint Price    Total      Carton ID 
+      v          (1) 
+
+
+                    Customer Code 
+
+      U    <o   m 0 
+
+
+
+
+
+  1    1    1    0  925310       SCISSQRS,STRAIGHT,B",BLUE              EACH     7.190       7.19      84247301 
+
+
+
+
+
+                    142490-1005 
+
+
+
+
+
+                    FSK142490100; i 
+
+
+
+
+
+  2    4    4    0  916403       LABEL, LSR,ADDR,WHT,7500CT              BOX    49.540      198.16     84267801 
+
+
+
+
+
+                    5960                                                                               84267901 
+
+
+
+
+
+                    AVE5960 
+
+
+
+
+
+  3    5    5    0  345652       PAPER,COPY,8.5X11,500SH,PINK           REAM     4.800       24.00   . 84251501
+
+
+
+
+
+                    3R05859                                                                            84251401 
+
+
+
+
+
+                    XER3R 11052 
+
+
+
+
+
+  4    5    5    0  478156       PA PER, COPY,8.5)(11,500SH,LILAC       REAM     5.300       26.50     84251401 
+
+
+
+
+
+                    3R11230 
+
+
+
+
+
+  5    4    4    0  345645       PAPER,COPY,8.5X11,500SH,GRN            REAM     4.840       19.36     84251201 
+
+
+
+
+
+                    3 R05857 
+
+
+
+
+
+  6    5    5    0  345637       PAPER, COPIER,20#,LTR,BLU,500SH        REAM     4.840       24.20     84251501 
+
+
+
+
+
+                    3R05856 
+
+
+
+
+
+                    XE R3R11050 
+
+
+
+
+
+  7    5    5    0  345660       PAP ER, COPY,8.5X11,YEL,500SH          REAM     4.800       24.00     84251501 
+
+
+
+
+
+                    3 805858                                                                           84247301 
+
+
+
+
+
+                    XER3R11053 
+
+
+
+
+
+  8    4    4    0  345686       PAPER, CPY,8.5X11,500SH, GOLD ROD      REAM     4.800       19.20     84251201 
+
+
+
+
+
+                    3R05861 
+
+
+
+
+
+                    XER3R11055 
+
+
+
+
+
+  9    1    1    0  708586       HIGHLIGHTER,MAJ ACCENT,ASTD,DZ          DOZ     5,630       5.63      84247301 
+
+
+
+
+
+                    25063 
+
+
+
+
+
+ 10    1    1    0  287154       BOX,STORIFI LE,LTR/LGL,BSC,14PK        PACK    34.990       34.99     84267701 
+
+
+
+
+
+                    0070317 
+
+
+
+
+
+ 11    2    0    2  198695       PAPER ,LTR,ASTRO,65L13,250RM,PNK       REAM    17.890 
+
+
+
+
+
+                    98854 

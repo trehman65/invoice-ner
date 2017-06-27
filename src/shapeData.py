@@ -2,6 +2,19 @@ import nltk
 from nltk import word_tokenize,pos_tag
 import sys 
 
+
+
+def isNumber(inputVal):
+	try:
+   		val = float(inputVal)
+	except ValueError:
+   		val = -1
+
+	number = (1 if val>0 else 0)
+	return number
+
+
+
 infilename = sys.argv[1]
 outfilename = "prtest.txt"
 outfile = open(outfilename,'w')

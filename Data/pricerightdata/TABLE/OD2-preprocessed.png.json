@@ -1,0 +1,817 @@
+{"ocrresult": {
+  "tablezones": {"table": {
+    "top": "1038",
+    "left": "1820",
+    "bottom": "38",
+    "grid": {
+      "col": [
+        "2971",
+        "1757",
+        "970",
+        "854"
+      ],
+      "row": [
+        "888",
+        "562",
+        "316",
+        "269",
+        "288",
+        "264",
+        "307",
+        "413",
+        "461",
+        "341",
+        "345",
+        "346"
+      ]
+    },
+    "right": "3185"
+  }},
+  "words": {"word": [
+    {
+      "top": "1088",
+      "left": "292",
+      "bottom": "1048",
+      "right": "547",
+      "content": "PRODUCT"
+    },
+    {
+      "top": "1088",
+      "left": "1246",
+      "bottom": "1048",
+      "right": "1349",
+      "content": "SKU"
+    },
+    {
+      "top": "1087",
+      "left": "1371",
+      "bottom": "1049",
+      "right": "1396",
+      "content": "#"
+    },
+    {
+      "top": "1032",
+      "left": "289",
+      "bottom": "974",
+      "right": "996",
+      "content": "TAPE,LETTERING,.5\",BLACKl"
+    },
+    {
+      "top": "980",
+      "left": "1030",
+      "bottom": "974",
+      "right": "1240",
+      "content": "_,.._......_-......"
+    },
+    {
+      "top": "1026",
+      "left": "1274",
+      "bottom": "979",
+      "right": "1385",
+      "content": "3949"
+    },
+    {
+      "top": "981",
+      "left": "1557",
+      "bottom": "975",
+      "right": "1568",
+      "content": ".."
+    },
+    {
+      "top": "980",
+      "left": "292",
+      "bottom": "914",
+      "right": "1007",
+      "content": "PAPERL\npOPIER,20#,LTR,BLV,"
+    },
+    {
+      "top": "920",
+      "left": "293",
+      "bottom": "854",
+      "right": "1016",
+      "content": "PAPER,COPY,8.5X11,500Sf,G"
+    },
+    {
+      "top": "848",
+      "left": "293",
+      "bottom": "796",
+      "right": "473",
+      "content": "PAPER,"
+    },
+    {
+      "top": "860",
+      "left": "519",
+      "bottom": "796",
+      "right": "1004",
+      "content": "OFY,8.5X11,YEL&#8222;500"
+    },
+    {
+      "top": "801",
+      "left": "290",
+      "bottom": "736",
+      "right": "1073",
+      "content": "N!KHLIGHTER,ACCENTINTRO,F"
+    },
+    {
+      "top": "742",
+      "left": "289",
+      "bottom": "677",
+      "right": "1092",
+      "content": "TAPE,INVISIBLE,3/4X1000,1.......__"
+    },
+    {
+      "top": "683",
+      "left": "291",
+      "bottom": "617",
+      "right": "1003",
+      "content": "INDEX,INSERT,118.5,CLEAR"
+    },
+    {
+      "top": "621",
+      "left": "1032",
+      "bottom": "618",
+      "right": "1059",
+      "content": "_."
+    },
+    {
+      "top": "623",
+      "left": "1084",
+      "bottom": "617",
+      "right": "1164",
+      "content": "_..._.."
+    },
+    {
+      "top": "548",
+      "left": "290",
+      "bottom": "500",
+      "right": "461",
+      "content": "PAPER"
+    },
+    {
+      "top": "548",
+      "left": "479",
+      "bottom": "501",
+      "right": "618",
+      "content": "X9,11"
+    },
+    {
+      "top": "550",
+      "left": "629",
+      "bottom": "498",
+      "right": "962",
+      "content": "\",20LB,10/CAS"
+    },
+    {
+      "top": "501",
+      "left": "1045",
+      "bottom": "498",
+      "right": "1083",
+      "content": "--"
+    },
+    {
+      "top": "490",
+      "left": "287",
+      "bottom": "436",
+      "right": "361",
+      "content": "Nip"
+    },
+    {
+      "top": "502",
+      "left": "381",
+      "bottom": "437",
+      "right": "559",
+      "content": "COLOR"
+    },
+    {
+      "top": "490",
+      "left": "577",
+      "bottom": "437",
+      "right": "976",
+      "content": "8X11_,20#,LVNDR"
+    },
+    {
+      "top": "441",
+      "left": "290",
+      "bottom": "388",
+      "right": "557",
+      "content": "DISCOUNT"
+    },
+    {
+      "top": "309",
+      "left": "464",
+      "bottom": "267",
+      "right": "718",
+      "content": "Purchased"
+    },
+    {
+      "top": "310",
+      "left": "738",
+      "bottom": "258",
+      "right": "807",
+      "content": "by;"
+    },
+    {
+      "top": "308",
+      "left": "839",
+      "bottom": "265",
+      "right": "1052",
+      "content": "AUDREY"
+    },
+    {
+      "top": "309",
+      "left": "1070",
+      "bottom": "266",
+      "right": "1211",
+      "content": "DAN"
+    },
+    {
+      "top": "965",
+      "left": "1247",
+      "bottom": "914",
+      "right": "1411",
+      "content": "345637"
+    },
+    {
+      "top": "921",
+      "left": "1443",
+      "bottom": "915",
+      "right": "1522",
+      "content": "....,_"
+    },
+    {
+      "top": "919",
+      "left": "1534",
+      "bottom": "915",
+      "right": "1541",
+      "content": "_"
+    },
+    {
+      "top": "906",
+      "left": "1247",
+      "bottom": "856",
+      "right": "1411",
+      "content": "345645"
+    },
+    {
+      "top": "861",
+      "left": "1243",
+      "bottom": "797",
+      "right": "1411",
+      "content": "345660"
+    },
+    {
+      "top": "801",
+      "left": "1411",
+      "bottom": "796",
+      "right": "1470",
+      "content": "......_"
+    },
+    {
+      "top": "800",
+      "left": "1250",
+      "bottom": "736",
+      "right": "1382",
+      "content": "19618"
+    },
+    {
+      "top": "740",
+      "left": "1447",
+      "bottom": "737",
+      "right": "1490",
+      "content": "...-"
+    },
+    {
+      "top": "728",
+      "left": "1246",
+      "bottom": "679",
+      "right": "1410",
+      "content": "520928"
+    },
+    {
+      "top": "667",
+      "left": "1246",
+      "bottom": "628",
+      "right": "1410",
+      "content": "933515"
+    },
+    {
+      "top": "623",
+      "left": "1246",
+      "bottom": "557",
+      "right": "1410",
+      "content": "998584"
+    },
+    {
+      "top": "547",
+      "left": "1247",
+      "bottom": "496",
+      "right": "1411",
+      "content": "196517"
+    },
+    {
+      "top": "488",
+      "left": "1249",
+      "bottom": "438",
+      "right": "1436",
+      "content": "1381528"
+    },
+    {
+      "top": "427",
+      "left": "1244",
+      "bottom": "377",
+      "right": "1408",
+      "content": "000000"
+    },
+    {
+      "top": "381",
+      "left": "1463",
+      "bottom": "378",
+      "right": "1477",
+      "content": "..."
+    },
+    {
+      "top": "384",
+      "left": "1494",
+      "bottom": "378",
+      "right": "1507",
+      "content": ".."
+    },
+    {
+      "top": "1088",
+      "left": "2046",
+      "bottom": "1047",
+      "right": "2302",
+      "content": "QUANTITY"
+    },
+    {
+      "top": "1089",
+      "left": "2427",
+      "bottom": "1049",
+      "right": "2546",
+      "content": "UNIT"
+    },
+    {
+      "top": "1088",
+      "left": "2560",
+      "bottom": "1046",
+      "right": "2708",
+      "content": "PRICE"
+    },
+    {
+      "top": "1089",
+      "left": "2778",
+      "bottom": "1048",
+      "right": "2947",
+      "content": "TOTAL"
+    },
+    {
+      "top": "1089",
+      "left": "2967",
+      "bottom": "1048",
+      "right": "3117",
+      "content": "PRICE"
+    },
+    {
+      "top": "1027",
+      "left": "2073",
+      "bottom": "986",
+      "right": "2227",
+      "content": "2.0000"
+    },
+    {
+      "top": "1027",
+      "left": "2246",
+      "bottom": "984",
+      "right": "2305",
+      "content": "EA"
+    },
+    {
+      "top": "978",
+      "left": "2316",
+      "bottom": "975",
+      "right": "2321",
+      "content": "."
+    },
+    {
+      "top": "978",
+      "left": "2333",
+      "bottom": "975",
+      "right": "2335",
+      "content": "."
+    },
+    {
+      "top": "980",
+      "left": "2078",
+      "bottom": "927",
+      "right": "2228",
+      "content": "1.0000"
+    },
+    {
+      "top": "966",
+      "left": "2247",
+      "bottom": "927",
+      "right": "2313",
+      "content": "RM"
+    },
+    {
+      "top": "907",
+      "left": "2035",
+      "bottom": "855",
+      "right": "2227",
+      "content": ".....1,000\n0"
+    },
+    {
+      "top": "908",
+      "left": "2245",
+      "bottom": "856",
+      "right": "2313",
+      "content": "RM"
+    },
+    {
+      "top": "858",
+      "left": "2330",
+      "bottom": "856",
+      "right": "2344",
+      "content": "_."
+    },
+    {
+      "top": "979",
+      "left": "2541",
+      "bottom": "974",
+      "right": "2544",
+      "content": "."
+    },
+    {
+      "top": "1029",
+      "left": "2558",
+      "bottom": "982",
+      "right": "2635",
+      "content": "$20"
+    },
+    {
+      "top": "979",
+      "left": "2996",
+      "bottom": "923",
+      "right": "3121",
+      "content": "$9.49"
+    },
+    {
+      "top": "847",
+      "left": "2078",
+      "bottom": "797",
+      "right": "2227",
+      "content": "1,0000"
+    },
+    {
+      "top": "787",
+      "left": "2078",
+      "bottom": "739",
+      "right": "2228",
+      "content": "1.0000"
+    },
+    {
+      "top": "788",
+      "left": "2245",
+      "bottom": "736",
+      "right": "2347",
+      "content": "DZ...."
+    },
+    {
+      "top": "851",
+      "left": "2578",
+      "bottom": "797",
+      "right": "2705",
+      "content": "$9,49"
+    },
+    {
+      "top": "861",
+      "left": "2867",
+      "bottom": "795",
+      "right": "3057",
+      "content": ",...&#65533;.._..\n-$9."
+    },
+    {
+      "top": "847",
+      "left": "3079",
+      "bottom": "809",
+      "right": "3118",
+      "content": "49"
+    },
+    {
+      "top": "801",
+      "left": "2996",
+      "bottom": "738",
+      "right": "3135",
+      "content": "$6.69.."
+    },
+    {
+      "top": "727",
+      "left": "2078",
+      "bottom": "688",
+      "right": "2228",
+      "content": "1,0000"
+    },
+    {
+      "top": "730",
+      "left": "2246",
+      "bottom": "688",
+      "right": "2304",
+      "content": "PK"
+    },
+    {
+      "top": "682",
+      "left": "2442",
+      "bottom": "676",
+      "right": "2496",
+      "content": "_..,."
+    },
+    {
+      "top": "680",
+      "left": "2532",
+      "bottom": "676",
+      "right": "2542",
+      "content": "_"
+    },
+    {
+      "top": "732",
+      "left": "2552",
+      "bottom": "676",
+      "right": "2706",
+      "content": "$19.09"
+    },
+    {
+      "top": "681",
+      "left": "2746",
+      "bottom": "677",
+      "right": "2757",
+      "content": "-"
+    },
+    {
+      "top": "682",
+      "left": "2812",
+      "bottom": "677",
+      "right": "2827",
+      "content": "-"
+    },
+    {
+      "top": "731",
+      "left": "2964",
+      "bottom": "678",
+      "right": "3119",
+      "content": "$19.09"
+    },
+    {
+      "top": "683",
+      "left": "2050",
+      "bottom": "628",
+      "right": "2229",
+      "content": "10,0000"
+    },
+    {
+      "top": "680",
+      "left": "2246",
+      "bottom": "628",
+      "right": "2307",
+      "content": "ST"
+    },
+    {
+      "top": "673",
+      "left": "2580",
+      "bottom": "616",
+      "right": "2743",
+      "content": "$1\n.6'\n9\n__."
+    },
+    {
+      "top": "623",
+      "left": "2800",
+      "bottom": "617",
+      "right": "2940",
+      "content": "_....._.._.."
+    },
+    {
+      "top": "683",
+      "left": "2969",
+      "bottom": "618",
+      "right": "3119",
+      "content": "$18,90"
+    },
+    {
+      "top": "608",
+      "left": "2073",
+      "bottom": "568",
+      "right": "2225",
+      "content": "5.0000"
+    },
+    {
+      "top": "610",
+      "left": "2246",
+      "bottom": "568",
+      "right": "2303",
+      "content": "EA"
+    },
+    {
+      "top": "612",
+      "left": "2580",
+      "bottom": "564",
+      "right": "2702",
+      "content": "$2.69"
+    },
+    {
+      "top": "562",
+      "left": "2843",
+      "bottom": "558",
+      "right": "2856",
+      "content": "..."
+    },
+    {
+      "top": "562",
+      "left": "2870",
+      "bottom": "559",
+      "right": "2877",
+      "content": "_"
+    },
+    {
+      "top": "614",
+      "left": "2968",
+      "bottom": "557",
+      "right": "3118",
+      "content": "$13.45"
+    },
+    {
+      "top": "548",
+      "left": "2079",
+      "bottom": "499",
+      "right": "2226",
+      "content": "1.0000"
+    },
+    {
+      "top": "548",
+      "left": "2244",
+      "bottom": "509",
+      "right": "2305",
+      "content": "CA"
+    },
+    {
+      "top": "502",
+      "left": "2387",
+      "bottom": "497",
+      "right": "2543",
+      "content": "_._..._.....__"
+    },
+    {
+      "top": "553",
+      "left": "2556",
+      "bottom": "497",
+      "right": "2703",
+      "content": "$$3,99"
+    },
+    {
+      "top": "552",
+      "left": "2968",
+      "bottom": "499",
+      "right": "3123",
+      "content": "$53.99."
+    },
+    {
+      "top": "501",
+      "left": "2324",
+      "bottom": "496",
+      "right": "2374",
+      "content": "...."
+    },
+    {
+      "top": "500",
+      "left": "2076",
+      "bottom": "448",
+      "right": "2226",
+      "content": "1.0000"
+    },
+    {
+      "top": "501",
+      "left": "2244",
+      "bottom": "448",
+      "right": "2310",
+      "content": "ISM"
+    },
+    {
+      "top": "440",
+      "left": "2552",
+      "bottom": "436",
+      "right": "2561",
+      "content": "_"
+    },
+    {
+      "top": "492",
+      "left": "2581",
+      "bottom": "445",
+      "right": "2703",
+      "content": "$6.79"
+    },
+    {
+      "top": "442",
+      "left": "2758",
+      "bottom": "437",
+      "right": "2816",
+      "content": "_...."
+    },
+    {
+      "top": "494",
+      "left": "2994",
+      "bottom": "438",
+      "right": "3119",
+      "content": "$8.79"
+    },
+    {
+      "top": "428",
+      "left": "2076",
+      "bottom": "376",
+      "right": "2226",
+      "content": "1.0000"
+    },
+    {
+      "top": "429",
+      "left": "2244",
+      "bottom": "389",
+      "right": "2304",
+      "content": "EA"
+    },
+    {
+      "top": "433",
+      "left": "2556",
+      "bottom": "377",
+      "right": "2703",
+      "content": "$28.00"
+    },
+    {
+      "top": "443",
+      "left": "2968",
+      "bottom": "386",
+      "right": "3119",
+      "content": "$28.00"
+    },
+    {
+      "top": "308",
+      "left": "1920",
+      "bottom": "269",
+      "right": "2197",
+      "content": "SUBTOTAL"
+    },
+    {
+      "top": "311",
+      "left": "2937",
+      "bottom": "264",
+      "right": "3115",
+      "content": "$217,36"
+    },
+    {
+      "top": "238",
+      "left": "1920",
+      "bottom": "198",
+      "right": "2022",
+      "content": "TAX"
+    },
+    {
+      "top": "241",
+      "left": "2965",
+      "bottom": "191",
+      "right": "3115",
+      "content": "$14.12"
+    },
+    {
+      "top": "168",
+      "left": "1920",
+      "bottom": "125",
+      "right": "2157",
+      "content": "SHIPPING"
+    },
+    {
+      "top": "168",
+      "left": "2991",
+      "bottom": "121",
+      "right": "3116",
+      "content": "$0.00"
+    },
+    {
+      "top": "96",
+      "left": "1920",
+      "bottom": "54",
+      "right": "2086",
+      "content": "TOTAL"
+    },
+    {
+      "top": "97",
+      "left": "2935",
+      "bottom": "48",
+      "right": "3113",
+      "content": "$175.48"
+    }
+  ]},
+  "docinfo": {
+    "dpiy": "300",
+    "dpix": "300",
+    "width": "3500",
+    "href": "/opt/tomcat/webapps/VisionX/png/1497341415633.png",
+    "height": "1122"
+  }
+}}
+

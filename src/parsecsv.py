@@ -1,8 +1,14 @@
 import csv
 import os
 
+#input:  CSV file
+#output: Word1 label1
+#....... Word2 label2
+#....... Word3 label3
 
-dirpath = "/Users/talha/Documents/Workspace/currentworkspace/pricerightnlp/pricerightdata/"
+
+
+dirpath = "/Users/talha/Documents/Workspace/pricerightnlp/Data/pricerightdata/WBMasonData/A/"
 outfilepath = "traindata.txt"
 outfile = open(outfilepath,'w')
 
