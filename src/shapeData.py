@@ -3,18 +3,6 @@ from nltk import word_tokenize,pos_tag
 import sys 
 
 
-
-def isNumber(inputVal):
-	try:
-   		val = float(inputVal)
-	except ValueError:
-   		val = -1
-
-	number = (1 if val>0 else 0)
-	return number
-
-
-
 infilename = sys.argv[1]
 outfilename = "prtest.txt"
 outfile = open(outfilename,'w')
@@ -37,9 +25,11 @@ for index in range(0,len(lines)):
 
 
    	isNumber = (1 if val>0 else 0)
+   	isAlphabet = (1 if thisToken[0].isalpha() > 0 else 0)
 
 	thisToken[1]=thisToken[1].replace("\n","")
 	thisToken.append(isNumber)
+	thisToken.append(isAlphabet)
 	tokens.append(thisToken)
 	
 #[word,label]
@@ -54,25 +44,29 @@ for index in range(1,len(tokens)-1):
 	outfile.write(str(tokens[index][2]))
 	outfile.write(" ")
 	
-	#prevnumber
-	outfile.write(str(tokens[index-1][2]))
+	#all alphabets
+	outfile.write(str(tokens[index][3]))
 	outfile.write(" ")
 	
-	#nextnumber
-	outfile.write(str(tokens[index+1][2]))
-	outfile.write(" ")
+	# #prevnumber
+	# outfile.write(str(tokens[index-1][2]))
+	# outfile.write(" ")
+	
+	# #nextnumber
+	# outfile.write(str(tokens[index+1][2]))
+	# outfile.write(" ")
 
 	#lenght of string
 	outfile.write(str(len(tokens[index][0])))
 	outfile.write(" ")
 
-	#prevword
-	outfile.write(str(tokens[index-1][0]))
-	outfile.write(" ")
+	# #prevword
+	# outfile.write(str(tokens[index-1][0]))
+	# outfile.write(" ")
 
-	#nextword
-	outfile.write(str(tokens[index+1][0]))
-	outfile.write(" ")
+	# #nextword
+	# outfile.write(str(tokens[index+1][0]))
+	# outfile.write(" ")
 
 	#annotation
 	outfile.write(str(tokens[index][1]))

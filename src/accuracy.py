@@ -1,13 +1,14 @@
 #computes accuracy of the model 
 import sys 
 
-output = open('outputpr.txt')
+output = open('output.txt')
 lines = output.readlines()
 total=0
 correct = 0
 
 for line in lines:
 	tokens	= line.split()
+	print tokens 
 
 	length = len(tokens) 
 
