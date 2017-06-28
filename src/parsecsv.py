@@ -50,5 +50,8 @@ for infilename in csvfilespath:
 				outfile.write(" ")	
 				outfile.write(classes[index][cellindex>0])
 				outfile.write("\n")
+		outfile.write(". PERIOD")
+		outfile.write("\n")
+
 
 outfile.close()

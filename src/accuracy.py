@@ -6,7 +6,11 @@ lines = output.readlines()
 total=0
 correct = 0
 
+
 for line in lines:
+	if len(line)<=1:
+		continue
+
 	tokens	= line.split()
 	print tokens 
 

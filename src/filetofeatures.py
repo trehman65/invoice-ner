@@ -11,10 +11,18 @@ def isNumber(inputVal):
 	number = (1 if val>0 else 0)
 	return number
 
+def isAlphabet(inputVal):
+	alpha = (1 if inputVal.isalpha() > 0 else 0)
+	return alpha
+
 
 file = open(sys.argv[1])
 
-testfile = open('/Users/talha/Documents/Workspace/pricerightnlp/CRF++-0.58/test.txt','w')
+tokens = sys.argv[1].split('/')
+outputfile = tokens[len(tokens)-1]
+outputfile = outputfile.replace('.png','.feat')
+
+testfile = open('/Users/talha/Documents/Workspace/pricerightnlp/src/'+outputfile,'w')
 
 for line in file.readlines():
 
@@ -43,7 +51,10 @@ for line in file.readlines():
 		number = isNumber(token)
 		testfile.write(str(number)+" ")
 
-		number = isNumber(prevToken)
+		alphabet = isAlphabet(token)
+		testfile.write(str(number)+" ")
+
+		number = isNumber(alphabet)
 		testfile.write(str(number) + " ")
 
 		number = isNumber(nextToken)
@@ -57,5 +68,6 @@ for line in file.readlines():
 
 		testfile.write("\n")
 
+	testfile.write("\n")
 
 testfile.close()
