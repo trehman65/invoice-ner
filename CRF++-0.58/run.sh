@@ -1,0 +1,9 @@
+ crf_test -v1 -m priceright test/OD0-preprocessed.feat.txt > output1/OD0-preprocessed.output1.txt 
+ crf_test -v1 -m priceright test/OD1-preprocessed.feat.txt > output1/OD1-preprocessed.output1.txt 
+ crf_test -v1 -m priceright test/OD2-preprocessed.feat.txt > output1/OD2-preprocessed.output1.txt 
+ crf_test -v1 -m priceright test/OD3-preprocessed.feat.txt > output1/OD3-preprocessed.output1.txt 
+ crf_test -v1 -m priceright test/OD4-preprocessed.feat.txt > output1/OD4-preprocessed.output1.txt 
+ crf_test -v1 -m priceright test/WB0-preprocessed.feat.txt > output1/WB0-preprocessed.output1.txt 
+ crf_test -v1 -m priceright test/WB1-preprocessed.feat.txt > output1/WB1-preprocessed.output1.txt 
+ crf_test -v1 -m priceright test/WB2-preprocessed.feat.txt > output1/WB2-preprocessed.output1.txt 
+ crf_test -v1 -m priceright test/WB4-preprocessed.feat.txt > output1/WB4-preprocessed.output1.txt 

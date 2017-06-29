@@ -1,34 +1,37 @@
 import csv
 import os
+import sys
+import random
 
 
-#input:  CSV file
+#input:  CSV files dir path
 #output: Word1 label1
 #....... Word2 label2
 #....... Word3 label3
 
 
 
-dirpath = "/Users/talha/Documents/Workspace/pricerightnlp/Data/pricerightdata/WBMasonData/E/"
-outfilepath = "traindataE.txt"
-outfile = open(outfilepath,'w')
+#dirpath = "/Users/talha/Documents/Workspace/pricerightnlp/Data/pricerightdata/WBMasonData/E/"
 
+dirpath = sys.argv[1]
+outfilepath = "2prtrain.txt"
+outfile = open(outfilepath,'w')
 
 csvfilespath = [file for file in os.listdir(dirpath) if file.endswith('.csv')]
 
 for infilename in csvfilespath:
 
-	wordlabelpairs=[]
 	
 	print "Processing ",infilename
 	csvfile = open(dirpath+infilename)
 	reader = csv.reader(csvfile)
 	rows = list(reader)
 
-	classes = [['ITEM','I-ITEM'], ['B-DES','I-DES'],['QTY','I-QTY'],['QTY','I-QTY'],['UM','I-UM'],['PRICE','I-PRICE'],['PRICE','I-PRICE']]
+	classes = [['ITEM','I-ITEM'], ['DES','DES'],['QTY','I-QTY'],['UM','I-UM'],['PRICE','I-PRICE'],['PRICE','I-PRICE']]
 
 	for rowindex in range(1,len(rows)):
 		
+		wordlabelpairs=[]		
 		row = rows[rowindex]
 		for index in range(0, len(row)):
 
@@ -45,11 +48,19 @@ for infilename in csvfilespath:
 				label = classes[index][cellindex>0]
 				wordlabelpairs.append([word,label])
 
-	# print wordlabelpairs
-				outfile.write(cells[cellindex])
-				outfile.write(" ")	
-				outfile.write(classes[index][cellindex>0])
-				outfile.write("\n")
+				# outfile.write(cells[cellindex])
+				# outfile.write(" ")	
+				# outfile.write(classes[index][cellindex>0])
+				# outfile.write("\n")
+
+		if random.randint(1,5) == 3:
+			print "shuffling"
+			random.shuffle(wordlabelpairs)
+
+		for pair in wordlabelpairs:
+			outfile.write(pair[0]+" "+pair[1])
+			outfile.write("\n")
+
 		outfile.write(". PERIOD")
 		outfile.write("\n")
 

@@ -4,7 +4,7 @@ import sys
 
 
 infilename = sys.argv[1]
-outfilename = "prtest.txt"
+outfilename = "2prtrain.txt"
 outfile = open(outfilename,'w')
 
 lines = []
@@ -15,7 +15,6 @@ with open(infilename) as data:
 for index in range(0,len(lines)):
 
 	line = lines[index]
-
 
 	thisToken = line.split(" ")
 	

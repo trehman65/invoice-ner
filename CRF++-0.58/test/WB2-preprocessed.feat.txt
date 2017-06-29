@@ -1,0 +1,351 @@
+Ext. 0 0 0 0 4 Ext. null
+
+Item 0 0 1 0 4 QTY Number
+Number 0 0 1 0 6 Item Item
+Item 0 0 1 0 4 Number Description
+Description 0 0 1 0 11 Item Type
+Type 0 0 1 0 4 Description PrlcefUOM
+PrlcefUOM 0 0 1 0 9 Type QTY
+QTY 0 0 1 0 3 PrlcefUOM QTY
+QTY 0 0 1 0 3 QTY null
+
+Ordered 0 0 1 0 7 Shipped Price
+Price 0 0 1 0 5 Ordered Shipped
+Shipped 0 0 1 0 7 Price null
+
+
+
+NES86774EA 0 0 0 0 10 0 Assorted
+Assorted 0 0 1 0 8 NES86774EA Chocolate
+Chocolate 0 0 1 0 9 Assorted Miniatures.
+Miniatures. 0 0 0 1 11 Chocolate 40
+40 1 1 0 0 2 Miniatures. oz.
+oz. 0 0 0 0 3 40 $19.99IEA
+$19.99IEA 0 0 0 1 9 oz. 3
+3 1 1 0 0 1 $19.99IEA $59.97
+$59.97 0 0 0 0 6 3 0
+0 0 0 0 0 1 $59.97 null
+
+C 0 0 1 0 1 :+i uick
+uick 0 0 1 0 4 C View
+View 0 0 1 0 4 uick :+i
+:+i 0 0 0 0 3 View null
+
+
+
+NES30212 0 0 0 0 8 0 Orlgiral
+Orlgiral 0 0 1 0 8 NES30212 Powdered
+Powdered 0 0 1 0 8 Orlgiral CreamOu
+CreamOu 0 0 1 0 7 Powdered 22oz
+22oz 0 0 0 0 4 CreamOu Canister
+Canister 0 0 1 0 8 22oz $6.991EA
+$6.991EA 0 0 0 1 8 Canister 4
+4 1 1 0 0 1 $6.991EA $27.96
+$27.96 0 0 0 0 6 4 0
+0 0 0 0 0 1 $27.96 null
+
+cola 0 0 1 0 4 Vaw Vaw
+Vaw 0 0 1 0 3 cola null
+
+
+
+GMT1301 0 0 0 0 7 0 Caf6
+Caf6 0 0 0 0 4 GMT1301 Escapes
+Escapes 0 0 1 0 7 Caf6 Mk
+Mk 0 0 1 0 2 Escapes Choonlatf
+Choonlatf 0 0 1 0 9 Mk Hot
+Hot 0 0 1 0 3 Choonlatf Cocoa
+Cocoa 0 0 1 0 5 Hot K-Cups
+K-Cups 0 0 0 0 6 Cocoa 24/Box
+24/Box 0 0 0 0 6 K-Cups $15.9918X
+$15.9918X 0 0 0 1 9 24/Box 2
+2 1 1 0 0 1 $15.9918X $31.98
+$31.98 0 0 0 0 6 2 0
+0 0 0 0 0 1 $31.98 null
+
+ICY. 0 0 0 0 4 V1A. V1A.
+V1A. 0 0 0 0 4 ICY. null
+
+
+
+
+WBMUPSFREIGHT 0 0 1 0 13 0 UPS
+UPS 0 0 1 0 3 WBMUPSFREIGHT FREIGHT
+FREIGHT 0 0 1 0 7 UPS $0.00/EA
+$0.00/EA 0 0 0 1 8 FREIGHT 1
+1 1 1 0 0 1 $0.00/EA $0.00
+$0.00 0 0 0 0 5 1 0
+0 0 0 0 0 1 $0.00 null
+
+(wink 0 0 0 0 5 Vichy Vichy
+Vichy 0 0 1 0 5 (wink null
+
+
+
+131241200 1 1 0 0 9 2 Bihxttng
+Bihxttng 0 0 1 0 8 131241200 White
+White 0 0 1 0 5 Bihxttng Copy
+Copy 0 0 1 0 4 White Paper
+Paper 0 0 1 0 5 Copy 8112"
+8112" 0 0 0 0 5 Paper x
+x 0 0 1 1 1 8112" 111
+111 1 1 0 1 3 x 98
+98 1 1 0 0 2 111 Bright
+Bright 0 0 1 0 6 98 5000/CT
+5000/CT 0 0 0 0 7 Bright /rA
+/rA 0 0 0 0 3 5000/CT $5'1.991CT
+$5'1.991CT 0 0 0 1 10 /rA 2
+2 1 1 0 0 1 $5'1.991CT $109.98
+$109.98 0 0 0 1 7 2 2
+2 1 1 0 0 1 $109.98 null
+
+~;ulCy 0 0 0 0 6 fiats. ~'iAW
+~'iAW 0 0 0 0 5 ~;ulCy fiats.
+fiats. 0 0 0 0 6 ~'iAW null
+
+
+
+WBMNEDSFREIGI 0 0 1 0 13 1 IT
+IT 0 0 1 0 2 WBMNEDSFREIGI NEDS
+NEDS 0 0 1 0 4 IT FREIGHT
+FREIGHT 0 0 1 0 7 NEDS $0.00/EA
+$0.00/EA 0 0 0 1 8 FREIGHT 1
+1 1 1 0 0 1 $0.00/EA $0.00
+$0.00 0 0 0 1 5 1 1
+1 1 1 0 0 1 $0.00 null
+
+Cuic1t 0 0 0 0 6 Yew Yew
+Yew 0 0 1 0 3 Cuic1t null
+
+
+
+DXE.5342DX 0 0 0 0 10 1 Hot
+Hot 0 0 1 0 3 DXE.5342DX Cups
+Cups 0 0 1 0 4 Hot Paper.
+Paper. 0 0 0 0 6 Cups 12oz.
+12oz. 0 0 0 0 5 Paper. Coffee
+Coffee 0 0 1 0 6 12oz. Dreams
+Dreams 0 0 1 0 6 Coffee Design
+Design 0 0 1 0 6 Dreams 500/Carton
+500/Carton 0 0 0 0 10 Design 582.991CT
+582.991CT 0 0 0 1 9 500/Carton 1
+1 1 1 0 0 1 582.991CT $82.99
+$82.99 0 0 0 1 6 1 1
+1 1 1 0 0 1 $82.99 null
+
+Cuicic 0 0 1 0 6 View View
+View 0 0 1 0 4 Cuicic null
+
+
+
+DXEFH2O7 0 0 0 0 8 3 Plastic
+Plastic 0 0 1 0 7 DXEFH2O7 Cutlery
+Cutlery 0 0 1 0 7 Plastic I
+I 0 0 1 0 1 Cutlery Ioavywoight
+Ioavywoight 0 0 1 0 11 I Forks.
+Forks. 0 0 0 0 6 Ioavywoight White
+White 0 0 1 0 5 Forks. 100/Box
+100/Box 0 0 0 0 7 White $7
+$7 0 0 0 0 2 100/Box 791BX
+791BX 0 0 0 1 5 $7 3
+3 1 1 0 0 1 791BX $23.37
+$23.37 0 0 0 1 6 3 3
+3 1 1 0 0 1 $23.37 null
+
+Ce:lrk 0 0 0 0 6 View View
+View 0 0 1 0 4 Ce:lrk null
+
+
+
+DXEFH2O7 0 0 0 0 8 2 Plastic
+Plastic 0 0 1 0 7 DXEFH2O7 Cutlery
+Cutlery 0 0 1 0 7 Plastic Heuvywulyht
+Heuvywulyht 0 0 1 0 11 Cutlery Teaspoons
+Teaspoons 0 0 1 0 9 Heuvywulyht While
+While 0 0 1 0 5 Teaspoons 100113ox
+100113ox 0 0 0 0 8 While $7.24(BX
+$7.24(BX 0 0 0 1 8 100113ox 2
+2 1 1 0 0 1 $7.24(BX $14.48
+$14.48 0 0 0 1 6 2 2
+2 1 1 0 0 1 $14.48 null
+
+Cuic; 0 0 0 0 5 View View
+View 0 0 1 0 4 Cuic; null
+
+
+
+DXEKH2O71 0 0 0 0 9 2 ND
+ND 0 0 1 0 2 DXEKH2O71 Plastic
+Plastic 0 0 1 0 7 ND Cutlery.
+Cutlery. 0 0 0 0 8 Plastic Hoavywoight
+Hoavywoight 0 0 1 0 11 Cutlery. Knives
+Knives 0 0 1 0 6 Hoavywoight White.
+White. 0 0 0 0 6 Knives 1U0/Box
+1U0/Box 0 0 0 0 7 White. $7.991BX
+$7.991BX 0 0 0 1 8 1U0/Box 2
+2 1 1 0 0 1 $7.991BX $15.98
+$15.98 0 0 0 1 6 2 2
+2 1 1 0 0 1 $15.98 null
+
+C':k.k 0 0 0 0 6 View View
+View 0 0 1 0 4 C':k.k null
+
+
+
+OFX70009 0 0 0 0 8 3 Fancy
+Fancy 0 0 1 0 5 OFX70009 Assorted
+Assorted 0 0 1 0 8 Fancy Hard
+Hard 0 0 1 0 4 Assorted Candy
+Candy 0 0 1 0 5 Hard Individually
+Individually 0 0 1 0 12 Candy Wrapped
+Wrapped 0 0 1 1 7 Individually 2
+2 1 1 0 0 1 Wrapped lb
+lb 0 0 1 0 2 2 Tub
+Tub 0 0 1 0 3 lb $13.641EA
+$13.641EA 0 0 0 1 9 Tub 3
+3 1 1 0 0 1 $13.641EA $40.62
+$40.62 0 0 0 1 6 3 3
+3 1 1 0 0 1 $40.62 null
+
+( 0 0 0 0 1 View link
+link 0 0 1 0 4 ( View
+View 0 0 1 0 4 link null
+
+
+
+OFX00019 0 0 0 0 8 4 IReclosable
+IReclosable 0 0 1 0 11 OFX00019 Canister
+Canister 0 0 1 0 8 IReclosable of
+of 0 0 1 0 2 Canister Sugar
+Sugar 0 0 1 0 5 of 20-oz.
+20-oz. 0 0 0 0 6 Sugar $4.391EA
+$4.391EA 0 0 0 1 8 20-oz. 4
+4 1 1 0 0 1 $4.391EA $17.56
+$17.56 0 0 0 1 6 4 4
+4 1 1 0 0 1 $17.56 null
+
+
+
+
+GMT40G1 0 0 0 0 7 5 Ugric
+Ugric 0 0 1 0 5 GMT40G1 Magic
+Magic 0 0 1 0 5 Ugric Extra
+Extra 0 0 1 0 5 Magic Bold
+Bold 0 0 1 0 4 Extra Coffee
+Coffee 0 0 1 0 6 Bold K-Cups
+K-Cups 0 0 0 0 6 Coffee 24/Box
+24/Box 0 0 0 0 6 K-Cups $14.991BX
+$14.991BX 0 0 0 1 9 24/Box 5
+5 1 1 0 0 1 $14.991BX $74.95
+$74.95 0 0 0 1 6 5 5
+5 1 1 0 0 1 $74.95 null
+
+Culc:lt.l'ie.vi 0 0 0 0 15 Culc:lt.l'ie.vi null
+
+
+
+GM 0 0 1 0 2 5 r6520
+r6520 0 0 0 0 5 GM Breakfast
+Breakfast 0 0 1 0 9 r6520 Bland
+Bland 0 0 1 0 5 Breakfast Coffee
+Coffee 0 0 1 0 6 Bland K-Cups.
+K-Cups. 0 0 0 0 7 Coffee 24/Box
+24/Box 0 0 0 0 6 K-Cups. $14.99X
+$14.99X 0 0 0 1 7 24/Box 5
+5 1 1 0 0 1 $14.99X $74.95
+$74.95 0 0 0 1 6 5 5
+5 1 1 0 0 1 $74.95 null
+
+C'ulck 0 0 0 0 6 view view
+view 0 0 1 0 4 C'ulck null
+
+
+
+GMTG6O3 0 0 0 0 7 5 Nantucket
+Nantucket 0 0 1 0 9 GMTG6O3 Blond
+Blond 0 0 1 0 5 Nantucket Coffee
+Coffee 0 0 1 0 6 Blond K-Cups.
+K-Cups. 0 0 0 0 7 Coffee 24/Box
+24/Box 0 0 0 0 6 K-Cups. $14.991RX
+$14.991RX 0 0 0 1 9 24/Box 5
+5 1 1 0 0 1 $14.991RX $74.95
+$74.95 0 0 0 1 6 5 5
+5 1 1 0 0 1 $74.95 null
+
+S'4sIU 0 0 0 0 6 View View
+View 0 0 1 0 4 S'4sIU null
+
+
+
+GMT14738 0 0 0 0 8 2 India
+India 0 0 1 0 5 GMT14738 Spice
+Spice 0 0 1 0 5 India Chei
+Chei 0 0 1 0 4 Spice Tea
+Tea 0 0 1 0 3 Chei K-Cups
+K-Cups 0 0 0 0 6 Tea 24/Box
+24/Box 0 0 0 0 6 K-Cups r;!
+r;! 0 0 0 0 3 24/Box $14.901BX
+$14.901BX 0 0 0 1 9 r;! 2
+2 1 1 0 0 1 $14.901BX $29.98
+$29.98 0 0 0 1 6 2 2
+2 1 1 0 0 1 $29.98 null
+
+Cuic 0 0 1 0 4 Viaw Viaw
+Viaw 0 0 1 0 4 Cuic null
+
+
+
+GMT6802 0 0 0 0 7 2 Cate
+Cate 0 0 1 0 4 GMT6802 Escapes
+Escapes 0 0 1 0 7 Cate Dark
+Dark 0 0 1 0 4 Escapes Chocolate
+Chocolate 0 0 1 0 9 Dark Hot
+Hot 0 0 1 0 3 Chocolate Cocoa
+Cocoa 0 0 1 0 5 Hot K-Cups
+K-Cups 0 0 0 0 6 Cocoa 24/Box
+24/Box 0 0 0 0 6 K-Cups $15.99BBX
+$15.99BBX 0 0 0 1 9 24/Box 2
+2 1 1 0 0 1 $15.99BBX $31.98
+$31.98 0 0 0 1 6 2 2
+2 1 1 0 0 1 $31.98 null
+
+C'e-ic< 0 0 0 0 7 View View
+View 0 0 1 0 4 C'e-ic< null
+
+
+
+GMT6870 0 0 0 0 7 2 Flavored
+Flavored 0 0 1 0 8 GMT6870 Iced
+Iced 0 0 1 0 4 Flavored Tea
+Tea 0 0 1 0 3 Iced K-Cups
+K-Cups 0 0 0 0 6 Tea Leman
+Leman 0 0 1 0 5 K-Cups 22/Box
+22/Box 0 0 0 0 6 Leman $14.991BX
+$14.991BX 0 0 0 1 9 22/Box 2
+2 1 1 0 0 1 $14.991BX $29.98
+$29.98 0 0 0 1 6 2 2
+2 1 1 0 0 1 $29.98 null
+
+Cuirk 0 0 1 0 5 Maw Maw
+Maw 0 0 1 0 3 Cuirk null
+
+
+
+DXESXB12WSPK 0 0 0 0 12 2 Pathways
+Pathways 0 0 1 0 8 DXESXB12WSPK Heavyweight
+Heavyweight 0 0 1 0 11 Pathways Paper
+Paper 0 0 1 0 5 Heavyweight Bowls
+Bowls 0 0 1 0 5 Paper WiseSize
+WiseSize 0 0 1 0 8 Bowls 12oz.
+12oz. 0 0 0 0 5 WiseSize 125/Pack
+125/Pack 0 0 0 0 8 12oz. I:>=
+I:>= 0 0 0 0 4 125/Pack $15.99!PK
+$15.99!PK 0 0 0 1 9 I:>= 2
+2 1 1 0 0 1 $15.99!PK $31.98
+$31.98 0 0 0 1 6 2 2
+2 1 1 0 0 1 $31.98 null
+
+CuicX 0 0 1 0 5 any' view
+view 0 0 1 0 4 CuicX any'
+any' 0 0 0 0 4 view null
+
