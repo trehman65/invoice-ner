@@ -48,14 +48,14 @@ for infilename in csvfilespath:
 				label = classes[index][cellindex>0]
 				wordlabelpairs.append([word,label])
 
-				# outfile.write(cells[cellindex])
-				# outfile.write(" ")	
-				# outfile.write(classes[index][cellindex>0])
-				# outfile.write("\n")
+				outfile.write(cells[cellindex])
+				outfile.write(" ")	
+				outfile.write(classes[index][cellindex>0])
+				outfile.write("\n")
 
-		if random.randint(1,5) == 3:
-			print "shuffling"
-			random.shuffle(wordlabelpairs)
+		# if random.randint(1,5) == 3:
+		# 	print "shuffling"
+		# 	random.shuffle(wordlabelpairs)
 
 		for pair in wordlabelpairs:
 			outfile.write(pair[0]+" "+pair[1])
